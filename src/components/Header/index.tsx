@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
   return (
-    <header className="mb-auto mx-auto" style={{width:"80%"}}>
+    <header className="mb-auto mx-auto" style={{ width: "80%" }}>
       <div>
         <h3 className="float-md-start mb-0">Armaan Lala</h3>
         <nav className="nav nav-masthead justify-content-center float-md-end">
